@@ -48,3 +48,7 @@ Ledakin-Repo/
 <li> This <a href="./doc/INSTALLATION.md"> INSTALLATION.md </a> contains the installation process of git and its required initial configuration.
 <li> This <a href="./doc/CHEATSHEET.md"> CHEATSHEET.md </a> contains some commonly used git commands and a short explanation of its purpose and usage.
 <li> It is recomendded to use <a href="https://www.conventionalcommits.org/en/v1.0.0/"> Semantc Commits </a> in commit messages. Examples of semantic commits can be seen in <a href="https://github.com/WimarW/Ledakin-Repo/commits/main/"> This Repository </a> or <a href="https://github.com/WimarW/IF2150-RPL-K03-G09/commits/main/"> This One </a>
+
+
+
+test
